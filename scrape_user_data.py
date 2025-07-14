@@ -29,4 +29,4 @@ with open(f"{username}.txt", "w", encoding="utf-8") as f:
         f.write("- " + post.title + "\n")
         f.write(f"  [Source: https://reddit.com{post.permalink}]\n\n")
 
-print(f"\n File '{username}.txt")
+print(f"\n File '{username}.txt' created successfully.")
