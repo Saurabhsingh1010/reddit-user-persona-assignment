@@ -2,8 +2,8 @@ import praw
 praw.Reddit.check_for_async = False
 
 # Reddit credentials
-client_id = "93g-CEh_QdO4Mtyc2OqaxA"
-client_secret = "Dbf7W6XP9ewteylXcgLxfko8agO5Fg"
+client_id = "your_id"
+client_secret = "your_secret"
 user_agent = "my_reddit_scraper by u/PersonaScraper"
 
 # Reddit user
